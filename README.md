@@ -65,3 +65,21 @@ python scripts/evaluate_model.py
 * Stable convergence across epochs with minimal overfitting
 
 ---
+
+##  Full Project Download
+
+The complete 7GB project, including datasets, pretrained models, and notebooks, is available on Google Drive:
+
+[Download Full Project ZIP (Google Drive)](https://drive.google.com/drive/u/0/folders/1x1Og348moysYf2QvrAWWMzxaOqZv-dIu)
+
+**Instructions:**
+- Download and extract the ZIP.
+- Place contents inside the same folder as this repo if you want to run full training/evaluation.
+
+## Lightweight GitHub Version
+
+This GitHub repo only contains:
+- Scripts for CNN-LSTM and RL model training
+- Utility functions
+- Instructions and environment setup
+
