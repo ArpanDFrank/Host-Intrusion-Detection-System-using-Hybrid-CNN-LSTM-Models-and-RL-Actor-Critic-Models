@@ -70,7 +70,7 @@ python scripts/evaluate_model.py
 
 The complete 7GB project, including datasets, pretrained models, and notebooks, is available on Google Drive:
 
-[Download Full Project ZIP (Google Drive)](https://drive.google.com/file/d/1e0HlV8di61skV-Ov10WZJf9_UZVa0hFy/view?usp=drive_link)
+[Download Full Project ZIP (Google Drive)](https://drive.google.com/file/d/1GtISIAxDe7FANdk_6pcI6qtEebY52Wom/view?usp=drive_link)
 
 **Instructions:**
 - Download and extract the ZIP.
